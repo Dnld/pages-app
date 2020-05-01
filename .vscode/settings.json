@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/djs/.local/share/virtualenvs/pages-zrjRppHd/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
